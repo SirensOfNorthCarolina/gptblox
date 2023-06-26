@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #202020;
+  }
+  
+  header {
+    background-color: #494949;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  #featured-games {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: white;
+  }
+  
+  .game-card {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .game-card img {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .game-card h3 {
+    margin: 0;
+    color: white;
+  }
+  
+  .game-card p {
+    margin: 10px 0;
+  }
+
+  p{
+    color: white;
+  }
+  
